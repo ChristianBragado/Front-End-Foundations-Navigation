@@ -1,2 +1,3 @@
-# Front-End-Foundations-Navigation
-Thinkful Module 18.7 Final work
+# starter-joey-thinkful
+
+This repo contains the starter and solution code for the Joey Thinkful resume exercise.
